@@ -11,6 +11,8 @@
 *.so.*
 *.dylib
 
+new_fichier3
+
 # Executables
 *.exe
 *.out
